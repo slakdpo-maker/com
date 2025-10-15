@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>عرض توضيحي - تطبيق PUBG (Firebase)</title>
+  <title>عرض توضيحي - برانامج PUBG (Firebase)</title>
   <style>
     /* (نفس ستايل العرض الكبير الملائم لويندوز) */
     *{box-sizing:border-box;margin:0;padding:0;font-family:"Segoe UI", Tahoma, Arial, "Noto Naskh Arabic", sans-serif}
